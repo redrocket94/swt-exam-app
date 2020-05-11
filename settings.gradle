@@ -1,0 +1,2 @@
+rootProject.name='swt-exam-app'
+include ':app'
