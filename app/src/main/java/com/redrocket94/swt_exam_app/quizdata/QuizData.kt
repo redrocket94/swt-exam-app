@@ -1,5 +1,7 @@
 package com.redrocket94.swt_exam_app.quizdata
 
+// Structure to hold our quizData, there is probably a much simpler way to do this, but its a list of maps that each contains
+// the quiz question (as a string), the possible answers (as a list of strings) and the correct answer (as a string)
 val quizzes = listOf(
     mapOf(
         "quizQuestion" to "Which letter does Benazeer start with?",
