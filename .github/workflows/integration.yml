@@ -27,7 +27,3 @@ jobs:
         
     - name: Android Emulator
       uses: vgaidarji/android-github-actions-emulator@v1.0.1
-      with:
-        target: default
-        profile: Nexus 6
-        script: ./gradlew connectedCheck --stacktrace
