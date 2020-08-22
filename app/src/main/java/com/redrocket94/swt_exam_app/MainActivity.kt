@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
-a
+
 
 class MainActivity : AppCompatActivity() {
 
