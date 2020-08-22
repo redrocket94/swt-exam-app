@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
+a
+
 class MainActivity : AppCompatActivity() {
 
     // Handle everything that needs to be set when screen is created
